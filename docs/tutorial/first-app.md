@@ -200,6 +200,9 @@ Finally the `index.html` is the web page you want to show:
 Once you've created your initial `main.js`, `index.html`, and `package.json`
 files, you can try your app by running `npm start` from your application's
 directory.
+If there is an error message that electron cannot be found, that is, 
+to keep the node version consistent with the electron version, 
+you need to downgrade electron
 
 ## Trying this Example
 
